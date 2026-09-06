@@ -1,0 +1,16 @@
+numpy
+langchain-community
+uvicorn
+langserve
+langchain_ollama
+sse_starlette
+langchain_chroma
+bs4
+langchain
+langchain_huggingface
+langchain_tavily
+langchain-mcp-adapters
+ipykernel
+pypdf
+streamlit
+psycopg2
